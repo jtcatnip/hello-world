@@ -1,0 +1,2 @@
+Here is data from a new file.
+I will do an add and then a commit.
