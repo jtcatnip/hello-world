@@ -2,3 +2,5 @@ This file was created on Git.
 This file was created on Git and i added another line
 This file was editted after a commit. 
 This file was editted after a commit. 
+testing git add *.txt
+
