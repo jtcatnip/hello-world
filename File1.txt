@@ -1,0 +1,1 @@
+Here is data from file1.txt
